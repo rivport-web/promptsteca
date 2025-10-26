@@ -1,0 +1,3 @@
+git init
+git add .
+git commit -m "Initial commit - Promptsteca con Supabase y autenticación"
